@@ -16,7 +16,7 @@ class TinderBot():
         login_btn.click()
 
     def like(self):
-        like_btn = self.driver.find_element_by_xpath('//*[@id="o771500765"]/div/div[1]/div/div/main/div/div[1]/div[1]/div/div[5]/div/div[4]/button')
+        like_btn = self.driver.find_element_by_xpath('//*[@id="s-2061886532"]/div/div[1]/div/div/main/div/div[1]/div[1]/div/div[5]/div/div[4]/button')
         like_btn.click()
 
     def other_like(self):

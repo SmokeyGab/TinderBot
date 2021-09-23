@@ -4,14 +4,14 @@ A tinder bot that swipes right for you every time.
 
 # Usage
 
-1.Download tinder_bot.py file
-2.Download Chromedriver
-3.Place Chromedriver in same folder as tinder_bot.py
-4.Run tinder_bot.py
-6.A Chrome browser should open
-5.Either run TinderBot.login() or visit tinder.com manually in chrome instance
-6.Login with your account credentials on tinder.com
-7.In tinder_bot.py prompt type TinderBot.autoswipe() to start swiping
+1. Download tinder_bot.py file
+2. Download Chromedriver
+3. Place Chromedriver in same folder as tinder_bot.py
+4. Run tinder_bot.py
+6. A Chrome browser should open
+5. Either run TinderBot.login() or visit tinder.com manually in chrome instance
+6. Login with your account credentials on tinder.com
+7. In tinder_bot.py prompt type TinderBot.autoswipe() to start swiping
 
 # Issues
 
